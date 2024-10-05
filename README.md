@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-zSWAsx-H6i](https://www.frontendmentor.io/solutions/3-column-preview-zSWAsx-H6i)
 - Live Site URL: [https://sweet-smakager-711880.netlify.app](https://sweet-smakager-711880.netlify.app)
 
 ## My process
